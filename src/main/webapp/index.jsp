@@ -1,7 +1,6 @@
 <html>
   <head>
     <h2>welcome to our company</h2>
-    <h2> we are ready to service you</h2>
     <h2> plz contact our customer care</h2>
   </head>
   <body>
